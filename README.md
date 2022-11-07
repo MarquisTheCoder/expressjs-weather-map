@@ -17,5 +17,5 @@ WeatherMap and MapBox REST API's.
 <hr>
 
 
-[![showcase image](https://github.com/MarquisTheCoder/expressjs-weather-map/sc/showcase.png)](https://marquisthecoder.github.io/marcus-aurelius-memorabilia/)
+[![showcase image](https://github.com/MarquisTheCoder/expressjs-weather-map/blob/main/sc/show_case.png)](https://marquisthecoder.github.io/marcus-aurelius-memorabilia/)
 <hr>
